@@ -1,2 +1,0 @@
-# ProyectInt
-Proyecto Integrador
